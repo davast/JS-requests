@@ -1,9 +1,11 @@
 // Foursquare API Info
+// Create account in foursquare and get "clientId" and "clientSecret" keys and past it in here 
 const clientId = '';
 const clientSecret = '';
 const url = 'https://api.foursquare.com/v2/venues/explore?near=';
 
 // OpenWeather Info
+// Create account in openweathermap and get API key and past it in here
 const openWeatherKey = '';
 const weatherUrl = 'https://api.openweathermap.org/data/2.5/weather';
 
